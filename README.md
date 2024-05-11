@@ -2,8 +2,8 @@
 
 ## AIM:
 Use of Network commands in Real Time environment
-### NAME: KARTHIKEYAN R
-### REG.NO: 212222240046
+### NAME: MUKESH
+### REG.NO: 212223230128
 ## Software:
 Command Prompt And Network Protocol Analyzer
 
